@@ -5,4 +5,4 @@ Inspired by Mathologer's youtube video called on timetables, which can be found 
 
 <img src="images/change.gif" alt="HTML5 Icon" width="940">
 
-<img src="images/cardioid.png" alt="HTML5 Icon" width="300"  style="display:inline-block"> <img src="images/nephroid.png" alt="HTML5 Icon" width="300"  style="display:inline-block"><img src="images/factor_4.png" alt="HTML5 Icon" width="300"  style="display:inline-block">
+<img src="images/cardioid.png" alt="HTML5 Icon" width="290"  style="display:inline-block"> <img src="images/nephroid.png" alt="HTML5 Icon" width="290"  style="display:inline-block"><img src="images/factor_4.png" alt="HTML5 Icon" width="290"  style="display:inline-block">
