@@ -1,9 +1,9 @@
-let points = 500;
+let points = 200;
 let width = 500;
 let height = 500;
 let r = 250-10;
 let array = [];
-let times = 1;
+let times = 2;
 
 function setup() {
   let canvas = createCanvas(width, height);
@@ -20,7 +20,7 @@ function draw() {
 
   for (let i =0; i<points; i++) {
     stroke(0);
-    strokeWeight(2);
+    strokeWeight(1);
     let x = r * Math.cos(i * angle + Math.PI);
     let y = r * Math.sin(i * angle + Math.PI);
     point(x, y);
@@ -33,17 +33,19 @@ function draw() {
     let ran2 = Math.floor(map(Math.random(), 0, 1, 0, 255));
     let ran3 = Math.floor(map(Math.random(), 0, 1, 0, 255));
     stroke(200, ran1, ran2);
+    // stroke(0);
     strokeWeight(0.5);
     line(array[i][0], array[i][1], r * Math.cos(newIndex + Math.PI), r * Math.sin(newIndex + Math.PI))
   }
 
   stroke(0);
   noFill();
-  strokeWeight(1);
+  strokeWeight(0.5);
   circle(0, 0, 2*r)
 
   array = [];
   times += 0.01;
+  // points += 1;
 
   // noLoop();
 
