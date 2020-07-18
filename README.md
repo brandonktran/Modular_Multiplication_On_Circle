@@ -4,7 +4,7 @@ Visualization of modular multiplication & time tables on a circle using p5.js. I
 
 
 ##### modular multiplication visualized as multiplication factor increases with time:
-<img src="images/change.gif" alt="HTML5 Icon" width="940">
+<img src="images/change.gif" alt="HTML5 Icon" width="100%">
 
 ##### images  of a cardioid (multiplication factor: 2), nephroid (multiplication factor: 3), & time table with multiplication factor: 4:
-<img src="images/cardioid.png" alt="HTML5 Icon" width="280"  style="display:inline-block"> <img src="images/nephroid.png" alt="HTML5 Icon" width="280"  style="display:inline-block"><img src="images/factor_4.png" alt="HTML5 Icon" width="280"  style="display:inline-block">
+<img src="images/cardioid.png" alt="HTML5 Icon" width="31.5%"  style="display:inline-block"> <img src="images/nephroid.png" alt="HTML5 Icon" width="31.5%"  style="display:inline-block"><img src="images/factor_4.png" alt="HTML5 Icon" width="31.5%"  style="display:inline-block">
